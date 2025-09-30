@@ -92,5 +92,3 @@ Malware can capture keystrokes or exfiltrate stored credentials. Device security
 * OWASP Authentication Cheat Sheet — practical guidance for implementing secure authentication.
 
 ---
-
-*Generated from The Password Meter output (v.2.0 rev.100518) and consolidated guidance on password security.*
